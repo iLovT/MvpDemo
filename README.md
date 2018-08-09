@@ -1,3 +1,3 @@
 # MvpDemo
-史上最简单易懂的Rxjava+retrofit+dagger2+mvp模式demo</br>
+史上最简单易懂的Rxjava+retrofit+dagger2+mvp模式demo</br></br>
 代码只是个示例，思想才是关键...
